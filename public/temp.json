@@ -1,0 +1,176 @@
+[
+    {
+        "description": "APPLE INC",
+        "displaySymbol": "AAPL",
+        "symbol": "AAPL",
+        "type": "Common Stock"
+    },
+    {
+        "description": "APPLE INC",
+        "displaySymbol": "AAPL.SN",
+        "symbol": "AAPL.SN",
+        "type": "Common Stock"
+    },
+    {
+        "description": "APPLE INC",
+        "displaySymbol": "AAPL.VI",
+        "symbol": "AAPL.VI",
+        "type": "Common Stock"
+    },
+    {
+        "description": "LS 1X AAPL",
+        "displaySymbol": "AAPL.L",
+        "symbol": "AAPL.L",
+        "type": "ETP"
+    },
+    {
+        "description": "APPLE INC",
+        "displaySymbol": "AAPL.BC",
+        "symbol": "AAPL.BC",
+        "type": "Common Stock"
+    },
+    {
+        "description": "APPLE INC",
+        "displaySymbol": "AAPL.SW",
+        "symbol": "AAPL.SW",
+        "type": "Common Stock"
+    },
+    {
+        "description": "APPLE INC",
+        "displaySymbol": "AAPL.MI",
+        "symbol": "AAPL.MI",
+        "type": "Common Stock"
+    },
+    {
+        "description": "AA PLC",
+        "displaySymbol": "AATDF",
+        "symbol": "AATDF",
+        "type": "Common Stock"
+    },
+    {
+        "description": "Pamapol",
+        "displaySymbol": "0LXG.L",
+        "symbol": "0LXG.L",
+        "type": ""
+    },
+    {
+        "description": "Aviva Plc",
+        "displaySymbol": "51IE.L",
+        "symbol": "51IE.L",
+        "type": ""
+    },
+    {
+        "description": "Aviva Plc",
+        "displaySymbol": "77EB.L",
+        "symbol": "77EB.L",
+        "type": ""
+    },
+    {
+        "description": "Aviva Plc",
+        "displaySymbol": "59KF.L",
+        "symbol": "59KF.L",
+        "type": ""
+    },
+    {
+        "description": "Makaron Pl",
+        "displaySymbol": "0LVQ.L",
+        "symbol": "0LVQ.L",
+        "type": ""
+    },
+    {
+        "description": "Aviva Plc",
+        "displaySymbol": "11GV.L",
+        "symbol": "11GV.L",
+        "type": ""
+    },
+    {
+        "description": "Datalex Plc",
+        "displaySymbol": "0OPM.L",
+        "symbol": "0OPM.L",
+        "type": ""
+    },
+    {
+        "description": "SAGA PLC",
+        "displaySymbol": "65J.F",
+        "symbol": "65J.F",
+        "type": "Common Stock"
+    },
+    {
+        "description": "ARENA PL",
+        "displaySymbol": "8G6.MU",
+        "symbol": "8G6.MU",
+        "type": "Common Stock"
+    },
+    {
+        "description": "Aviva PLC",
+        "displaySymbol": "36JS.L",
+        "symbol": "36JS.L",
+        "type": ""
+    },
+    {
+        "description": "ALLA PCL",
+        "displaySymbol": "ALLA.BK",
+        "symbol": "ALLA.BK",
+        "type": "Common Stock"
+    },
+    {
+        "description": "SAGA PLC",
+        "displaySymbol": "65J.BE",
+        "symbol": "65J.BE",
+        "type": "Common Stock"
+    },
+    {
+        "description": "Aviva PLC",
+        "displaySymbol": "AV..L",
+        "symbol": "AV..L",
+        "type": ""
+    },
+    {
+        "description": "SAGA PLC",
+        "displaySymbol": "SAGA.L",
+        "symbol": "SAGA.L",
+        "type": "Common Stock"
+    },
+    {
+        "description": "XAAR PLC",
+        "displaySymbol": "XAR.SG",
+        "symbol": "XAR.SG",
+        "type": "Common Stock"
+    },
+    {
+        "description": "Aviva PLC",
+        "displaySymbol": "AV.A.L",
+        "symbol": "AV.A.L",
+        "type": ""
+    },
+    {
+        "description": "Barclays plc",
+        "displaySymbol": "31PD.L",
+        "symbol": "31PD.L",
+        "type": ""
+    },
+    {
+        "description": "XAAR PLC",
+        "displaySymbol": "XAR.BE",
+        "symbol": "XAR.BE",
+        "type": "Common Stock"
+    },
+    {
+        "description": "SAGA PLC",
+        "displaySymbol": "65J.SG",
+        "symbol": "65J.SG",
+        "type": "Common Stock"
+    },
+    {
+        "description": "Barclays plc",
+        "displaySymbol": "34AP.L",
+        "symbol": "34AP.L",
+        "type": ""
+    },
+    {
+        "description": "XAAR PLC",
+        "displaySymbol": "XAR.L",
+        "symbol": "XAR.L",
+        "type": "Common Stock"
+    }
+]
