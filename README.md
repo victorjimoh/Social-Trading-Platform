@@ -21,5 +21,5 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-Social Trading Platform
+## Social Trading Platform
 This was my first shot on laravel framework, my final year project was to build a social trading platform whereby traders could interact with each other and share ideas, view the stock market and also news about the stock market. If you wanna use it just download it and install laravel on your system thanks. 
